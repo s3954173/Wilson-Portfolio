@@ -1,0 +1,21 @@
+Sections: 
+- Home
+	- Quick Intro to who you are
+	- Showcase of your reels/photos
+	- Sections with either one reel or a collection of photos of the same theme
+	- Extend gallery when ever user wants
+- About
+	- Keep on same page as Home but have an internal link to scroll to the conent
+
+
+- Gallery - Full collection of works
+	- Sort by Featured, Collection, Photos or Films
+- Contact
+[Footer]: Contact details/Social Media links
+[Navbar]: Home, About Me, Gallery, Contact me
+- Reference sites:
+	- http://hiromurai.com/
+
+Wilson TODO: 
+	- Write a quick summary profile of himself
+	- Sample collection of photos

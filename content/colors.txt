@@ -1,0 +1,7 @@
+red, purple, blue
+
+Lilac #D99AC5 + black
+Eminence #643173 + white
+Fire brick #BB0A21 + white
+Thistle #DCCDE8 + black
+Azul #016FB9 + white
